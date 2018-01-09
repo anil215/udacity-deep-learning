@@ -1,0 +1,9 @@
+text8.zip
+MNIST_data/
+notMNIST.pickle
+notMNIST_large.tar.gz
+notMNIST_large/
+notMNIST_sanit.pickle
+notMNIST_small.tar.gz
+notMNIST_small/
+.ipynb_checkpoints/
